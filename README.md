@@ -37,11 +37,15 @@
 ## Пример работы сервиса при отправки данных в формате JSON:
 
 ![img1](https://github.com/user-attachments/assets/e527aeb7-f058-4489-bfd0-d1e74e2860c9)
+
 ![img2](https://github.com/user-attachments/assets/fb7cd372-4552-45c2-95a1-0b31a9bee6ba)
 
 ## Пример работы сервиса при отправке csv файла:
 
 ![img3](https://github.com/user-attachments/assets/a25c0d96-57f5-4c30-ad1f-8ece0fb6834a)
+
 ![img4](https://github.com/user-attachments/assets/1fa41499-2c34-4ae2-96c8-5481ab5a80a2)
+
 ![img5](https://github.com/user-attachments/assets/3681c722-4f1f-4042-adb1-2650213ddbff)
+
 ![img6](https://github.com/user-attachments/assets/f591907f-3690-47fa-8c66-8c4e3c88642e)
