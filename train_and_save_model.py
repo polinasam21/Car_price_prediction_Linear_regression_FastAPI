@@ -12,11 +12,13 @@ df_train = pd.read_csv('https://raw.githubusercontent.com/Murcha1990/MLDS_ML_202
 
 
 def delete_duplicates_from_train(df_train):
+
     df_train_without_target = df_train.drop('selling_price', axis=1)
     df_train_without_target_duplicates = df_train_without_target.duplicated(keep='first')
     df_train_1 = df_train[~df_train_without_target_duplicates]
     df_train_1 = df_train_1.reset_index()
     df_train_1 = df_train_1.drop('index', axis=1)
+    
     return df_train_1
 
 
